@@ -2,7 +2,10 @@
 ## Want access to more premium and advanced tools? Join our [discord!](https://discord.gg/2RyM28f3EC)
 A collection of scripts designed to validate username and password combinations against specified services.
 
+
 > ⚠️**WARNING**: some users have copied code from this repository and reposted it as their own work. Be cautious, repositories with similar code may not be original. This repository is the original source.
+
+## Need **FREE** combos? ULPs? Traffic? Logs? [Join our discord!](https://discord.gg/2RyM28f3EC)
 
 ## Table of Contents
 - [Introduction](#introduction)
